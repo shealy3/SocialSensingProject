@@ -17,3 +17,6 @@ For best results, please run programs on the Notre Dame network via VPN if in-pe
 For more information on what is going on in our code, we recommend looking at our final paper, which is also in this directory.
 
 For more information on how GetOldTweets works, see the file GetOldTweetsREADME.md
+
+
+Link to repository: https://github.com/shealy3/SocialSensingProject
