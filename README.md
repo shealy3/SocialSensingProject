@@ -11,4 +11,6 @@ get_stock_data.py contains some of the implementation of yfinance that is used t
 
 Main.py is the main function that get relative sentiment scores for a given time period. You can generate the baseline at the same time if you want to, but it usually makes more sense to generate the baseline separately and hard-code it into the program because of how long baseline() takes to run. This file is adapted from the main function of GetOldTweets.
 
+For more information on what is going on in our code, we recommend looking at our final paper, which is also in this directory.
+
 For more information on how GetOldTweets works, see the file GetOldTweetsREADME.md
